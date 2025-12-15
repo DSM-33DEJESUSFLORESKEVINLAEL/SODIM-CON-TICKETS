@@ -1,6 +1,7 @@
 # 📱 SODIM - Flutter App
 
-Aplicación móvil desarrollada en Flutter para la gestión de órdenes de trabajo, marbetes y bitácoras. Soporta funcionamiento **offline/online**, sincronización de datos y generación de PDF.
+Aplicación móvil desarrollada en Flutter para la gestión de órdenes de trabajo, marbetes y bitácoras. Soporta funcionamiento **offline/online**, sincronización de datos y generación de PDF y tickets en bluetto
+
 
 ---
 
